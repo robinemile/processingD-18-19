@@ -5,5 +5,11 @@ _code like a designer_
 
 my first encounter with processing using the most basic basics.
 
-![Test](cyclop_dog.png)
+![screen](cyclop_dog.png)
       
+## shady shapes
+
+the result of my first try doing something interactive
+
+![screen](shady_shapes.png)
+

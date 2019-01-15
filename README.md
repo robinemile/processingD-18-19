@@ -5,3 +5,5 @@ _code like a designer_
 
 my first encounter with processing
 
+![Test](cyclop_dog.png)
+      
